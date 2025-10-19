@@ -1,23 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thisara</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on [rahuldkjain](https://rahuldkjain.github.io)
 
-- 🌱 I’m currently learning **rahuldkjain**
-
-- 👯 I’m looking to collaborate on [rahuldkjain](https://rahuldkjain.github.io)
-
-- 🤝 I’m looking for help with [rahuldkjain](https://rahuldkjain.github.io)
-
-- 👨‍💻 All of my projects are available at [rahuldkjain](rahuldkjain)
-
-- 📝 I regularly write articles on [https://rahuldkjain.github.io](https://rahuldkjain.github.io)
-
-- 💬 Ask me about **rahuldkjain**
 
 - 📫 How to reach me **thisaraanjana11@gmail.com**
 
-- 📄 Know about my experiences [https://rahuldkjain.github.io](https://rahuldkjain.github.io)
+
 
 - ⚡ Fun fact **busy**
 
